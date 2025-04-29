@@ -68,14 +68,7 @@
 <br clear="both">
 
 <div align="center">
-  ![snake gif](https://raw.githubusercontent.com/mhnadasafadi/mhnadasafadi/output/github-snake.svg)
-</div>
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-###
-
-<div align="center">
-  <img src="https://github.com/mhnadasafadi/mhnadasafadi/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/mhmadsafadi/mhmadsafadi/blob/output/github-snake-dark.svg" />
 </div>
 
 ###
