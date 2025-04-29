@@ -67,7 +67,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mhmadsafadi/mhmadsafadi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  ![snake gif](https://github.com/mhmadsafadi/mhmadsafadi/blob/output/github-snake.svg)
+</div>
 
 ###
 
